@@ -79,7 +79,7 @@ Log any action with a name, a stat, and a difficulty rating:
 
 Tasks appear in your history panel. Click any logged task to **tag it** (Flow, Deep Work, Quick Win, Breakthrough, etc.) and add a short note about what shifted. Tagged tasks feed into the Timeline for long-term pattern tracking.
 
-**Habits / Shortcuts** — create recurring tasks and they appear as one-tap quick-log buttons below the form. No retyping.
+**On Repeat** — create recurring tasks and they appear as one-tap quick-log buttons below the form. No retyping.
 
 ---
 

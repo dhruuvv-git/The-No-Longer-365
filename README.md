@@ -7,7 +7,7 @@
 
 ## What Is This?
 
-**The No Longer 365** is a personal growth tracker built with the depth and aesthetic of an RPG — specifically inspired by the social simulation and dungeon mechanics of *Persona 5*. Available as a **Windows desktop application** and an **Android app**, it runs entirely on your device with no accounts, no cloud, and no subscriptions.
+**The No Longer 365** is a personal growth tracker built with the depth and aesthetic of an RPG — It leans into heavy gamification mechanics, featuring a distinct UI deeply inspired by the high-contrast, stylized aesthetic of **Persona 5**. Available as a **Window**s desktop application and an **Android** app...
 
 Every task you complete earns XP across five character stats. Those stats level up, unlock trophies, and feed into a weekly boss battle you either win or lose. You track your mood, write weekly reflections, manage real-world commitments (Mementos), build meaningful bonds (Confidants), and log your shadow self — the patterns that work against you. Your progress is visualised, archived, and reflected back at you through a cast of mentors who speak in their own voice about your actual week.
 

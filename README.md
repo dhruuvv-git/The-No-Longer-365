@@ -46,8 +46,8 @@ It is not a to-do app. It is a system for taking your own life seriously.
 | **Every action is meaningful** | Tasks earn XP in one of five real-life skill areas |
 | **Rest is part of the system** | SP, Grace Days, Rest Periods, and Burnout Mode are all designed to reward recovery |
 | **Honest self-tracking** | The Shadow Meter, Reflection, and Mood logs are not optional polish — they are the system |
-| **Long-term over short-term** | Palace history, Transformation Archive, and the Testament are permanent records |
-| **No gamification tricks** | No punishing streaks for genuine rest. No artificial urgency |
+| **Short-term and long-term in one system** | Daily tasks and weekly palaces feed into permanent archives — every scale of progress is tracked |
+| **Gamification that respects you** |XP, levels, and bosses are real and intentional — but streaks don't punish genuine rest, and nothing is designed to manipulate you into opening the app |
 
 ---
 

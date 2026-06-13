@@ -196,7 +196,7 @@ Two live-read panels at the top of the task column:
 
 ### Mentor System
 
-Each day of the week is assigned a mentor character who speaks in the Connection panel of the Soul Overlay. Default schedule runs Monday → Igor through Sunday → Futaba. The mentor references your actual data: this week's goal, last week's palace result, upcoming mementos, mood pattern.
+Each day of the week is assigned a mentor character who speaks in the Connection panel of the Soul Overlay.By Default the system has its own mentors with their own personality. Custom mentors can be added with customizable personality from a wide choice of personalities to choose from. The mentor references your actual data: this week's goal, last week's palace result, upcoming mementos, mood pattern.
 
 The schedule is fully customisable — open the Soul Overlay, find the Connection panel, and click **Edit Schedule** to assign any available character to any day.
 
@@ -283,7 +283,7 @@ Three visual themes togglable via the switch in the header:
 | Theme | Aesthetic |
 |---|---|
 | **Default** | Neon green on black — cyberpunk terminal |
-| **Phantom Red** | Red and black — Persona 5 palace aesthetic with bold slash geometry |
+| **Phantom Red** | Red and black — Persona 5 aesthetic with bold slash geometry |
 | **Light** | Warm parchment and brown — analogue, paper, readable in bright light |
 
 All panels, charts, animations, and overlays respond fully to the active theme. Transitions are smoothly crossfaded.

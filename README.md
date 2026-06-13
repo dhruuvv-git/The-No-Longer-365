@@ -47,7 +47,7 @@ It is not a to-do app. It is a system for taking your own life seriously.
 | **Rest is part of the system** | SP, Grace Days, Rest Periods, and Burnout Mode are all designed to reward recovery |
 | **Honest self-tracking** | The Shadow Meter, Reflection, and Mood logs are not optional polish — they are the system |
 | **Long-term over short-term** | Palace history, Transformation Archive, and the Testament are permanent records |
-| **No gamification tricks** | No punishing streaks for genuine rest. No notifications. No artificial urgency |
+| **No gamification tricks** | No punishing streaks for genuine rest. No artificial urgency |
 
 ---
 

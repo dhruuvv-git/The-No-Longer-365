@@ -308,6 +308,7 @@ The Thieves Den panel houses manual save controls:
 ## Version
 
 **v1.0.0** — current release.
+**v2.0.0** - Coming Soon...
 
 ---
 
